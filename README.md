@@ -1,3 +1,4 @@
+```
 (py38)utcrtools -h
 usage: utcrtools [-h] --FQ1 FQ1 --FQ2 FQ2 --BC BC --ini INI [--FN FN] [--TCR TCR] [--Num NUM] [--BothSeq BOTHSEQ] [--Statwhat {a,a1,p}] [--Statindex STATINDEX] [--DF DF] [--SV SV]
                  {all,transform,full,full2,macaca,macaca-transform,simple,draw,test,split-migec,bc-migec-draw,migec-draw,run3-draw,migecfast} ...
@@ -37,3 +38,4 @@ optional arguments:
                         Plot and stat folder. Run Statwhat module before if using this.
   --DF DF               Folder to get statistics data
   --SV SV               Folder to save statistics data
+```
