@@ -1,0 +1,2 @@
+[console_scripts]
+utcrtools = utcrtools.main:main

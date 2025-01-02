@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: UTCRtools
+Version: 0.2.0
+Summary: A TCR data processing toolkit
+Author: Your Name
+Author-email: your_email@example.com
+Requires-Python: >=3.6
+Requires-Dist: pandas
+Requires-Dist: biopython
