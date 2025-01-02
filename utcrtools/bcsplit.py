@@ -31,7 +31,7 @@ def bcsplit(inputnamefile, inputfile):
 
 def BCsplit_main():
     """
-    如果仍然想做一个命令行入口 (可选),
+
     usage: python bcsplit.py inputnamefile inputfile
     """
     if len(sys.argv) < 3:
